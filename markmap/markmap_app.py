@@ -1,5 +1,3 @@
-from pydantic import BaseModel
-
 import mesop as me
 import mesop.labs as mel
 

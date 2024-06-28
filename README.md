@@ -4,9 +4,8 @@ This is a simple web_component implementation that use the [markmap](https://git
 
 ## Usage
 
-```html
-<mesop-markmap src="path/to/file.md"></mesop-markmap>
-```
+Here is a colab [demo](https://colab.research.google.com/drive/17gXlsXPDeo6hcFl1oOyrZ58FTozviN45?usp=sharing) showing how to use the component.
+
 
 ## License
 
